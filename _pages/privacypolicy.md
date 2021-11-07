@@ -8,6 +8,7 @@ include_in_header: false
 November 7th, 2021
 
 # Privacy Policy
+Please review our *lengthy* Privacy Policy.
 
 <br>
 

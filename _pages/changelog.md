@@ -8,8 +8,8 @@ include_in_header: true
 Catch up to date changes below!
 
 <br>
-
-### `Latest`
+___
+<!-- ### `Latest` -->
 
 ### `Initial Release`
 # **Version 1.0**

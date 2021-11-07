@@ -6,8 +6,6 @@ include_in_header: true
 
 # Changelog
 Catch up to date changes below!
-
-<br>
 ___
 <!-- ### `Latest` -->
 
